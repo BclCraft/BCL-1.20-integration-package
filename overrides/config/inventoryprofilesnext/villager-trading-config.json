@@ -1,0 +1,38 @@
+{
+    "globalBookmarks": {
+        "armorer": [
+        ],
+        "butcher": [
+        ],
+        "cartographer": [
+        ],
+        "cleric": [
+        ],
+        "farmer": [
+        ],
+        "fisherman": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:string"
+            }
+        ],
+        "fletcher": [
+        ],
+        "leatherworker": [
+        ],
+        "librarian": [
+        ],
+        "mason": [
+        ],
+        "shepherd": [
+        ],
+        "toolsmith": [
+        ],
+        "weaponsmith": [
+        ],
+        "nitwit": [
+        ],
+        "none": [
+        ]
+    }
+}

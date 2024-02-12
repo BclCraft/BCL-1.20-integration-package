@@ -1,0 +1,76 @@
+{
+  "54ba7e04-2db0-452f-9df1-f96e2440ebcf": {
+    "mobcaps": null,
+    "tps": null
+  },
+  "2544ec28-170f-4fb7-be72-57e34d610181": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null,
+    "explosions": "brief",
+    "projectiles": "brief",
+    "tnt": null
+  },
+  "56920da6-abd5-4253-9878-aaa344ccc58c": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null,
+    "explosions": "brief"
+  },
+  "297e3ff3-5558-414e-813f-f742411419ba": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null,
+    "explosions": "brief"
+  },
+  "75bd153e-271f-46b4-a3a2-147ab0613418": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null,
+    "explosions": "brief"
+  },
+  "02cfc44a-a7ff-4ada-94e9-23d9fee52e68": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null,
+    "explosions": "brief"
+  },
+  "8c253df0-75d2-48ca-8043-af82c66bc785": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null,
+    "explosions": "brief"
+  },
+  "d39bd51b-e2c6-4b11-9835-88d8fb9b040a": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null,
+    "explosions": "brief"
+  },
+  "a916a3fd-fd14-4236-934a-3eb9f71d981b": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null,
+    "explosions": "brief"
+  },
+  "ec561538-f3fd-461d-aff5-086b22154bce": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null,
+    "explosions": "brief"
+  },
+  "124a1e47-3859-4196-850b-d7a8ce7b9c2e": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null,
+    "explosions": "brief"
+  },
+  "f7272240-e5ba-4179-8787-6273d3fa38fb": {
+    "tps": null,
+    "mobcaps": null
+  },
+  "18d100e7-be95-47b9-8c26-517f33c1db6f": {
+    "mobcaps": "dynamic",
+    "tps": null
+  }
+}
