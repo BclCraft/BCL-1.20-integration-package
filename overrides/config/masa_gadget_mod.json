@@ -1,0 +1,139 @@
+{
+  "generic": {
+    "openConfigGui": {
+      "keys": "G,C"
+    },
+    "debug": false,
+    "searchMobSpawnPointBlackList": [],
+    "autoSyncEntityData": true,
+    "renderZombieVillagerConvertTime": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "renderTradeEnchantedBook": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "searchMobSpawnPoint": {
+      "keys": ""
+    },
+    "renderNextRestockTime": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "cacheContainerMenu": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "syncAllEntityData": {
+      "keys": ""
+    }
+  },
+  "litematica": {
+    "betterEasyPlaceMode": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "fixAccurateProtocol": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableLitematicaEasyPlaceFailTip": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "saveInventoryToSchematicInServer": true,
+    "useRelativePath": false,
+    "nudgeSelectionSupportFreeCamera": true
+  },
+  "malilib": {
+    "fastSwitchMasaConfigGui": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "fixConfigWidgetWidth": true,
+    "fixGetInventoryType": true,
+    "optimizeConfigWidgetSearch": true,
+    "favorites": {},
+    "showOriginalConfigNameScale": 0.65,
+    "backportI18nSupport": true,
+    "fixSearchbarHotkeyInput": true,
+    "showOriginalConfigName": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "favoritesSupport": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "favoritesFilter": false
+  },
+  "minihud": {
+    "compactBborProtocol": false,
+    "pcaSyncProtocolSyncBeehive": true,
+    "minihudI18n": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    }
+  },
+  "tweakeroo": {
+    "autoSyncTradeOfferList": true,
+    "inventoryPreviewSupportComparator": true,
+    "inventoryPreviewSupportPlayer": true,
+    "inventoryPreviewSupportSelect": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "inventoryPreviewSupportShulkerBoxItemEntity": true,
+    "inventoryPreviewSupportTradeOfferList": true,
+    "pcaSyncProtocol": true,
+    "renderNextRestockTime": true,
+    "renderTradeEnchantedBook": true,
+    "renderZombieVillagerConvertTime": true,
+    "inventoryPreviewSyncDataClientOnly": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "restockWithCraftingRecipes": [],
+    "inventoryPreviewUseCache": false,
+    "restockWithCrafting": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "inventoryPreviewSyncData": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    }
+  },
+  "configVersion": 1
+}
