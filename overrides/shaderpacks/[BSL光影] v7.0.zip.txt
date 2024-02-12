@@ -1,0 +1,2 @@
+#Mon May 09 04:59:06 HKT 2022
+sunPathRotation=0.0

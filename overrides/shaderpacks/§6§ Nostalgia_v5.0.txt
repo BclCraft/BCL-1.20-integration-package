@@ -1,0 +1,25 @@
+#Thu Dec 28 16:45:12 CST 2023
+ssptEmissionMode=1
+blocklightBaseTemp=3400
+ResolutionScale=1.0
+ssptEnabled=true
+labEmissionCurve=1.4
+subsurfaceScatterMode=1
+resourcepackReflectionsEnabled=true
+fogMistAdvanced=true
+ssptFullRangeRT=true
+contactShadowsEnabled=true
+vertexAttributeFix=true
+ssptEmissionDistance=32.0
+skylightIllum=0.5
+ssptLightmapBlend=0.7
+TAAU_FXAA_PostPass=false
+directionalLMEnabled=true
+indirectResReduction=2
+vignetteEnabled=false
+moonlightIllum=0.4
+UseLightleakPrevention=true
+shadowFilterIterations=15
+ssptBounces=2
+cloudLayerShadowing=true
+SVGF_FILTER=true
